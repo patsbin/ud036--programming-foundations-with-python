@@ -1,7 +1,12 @@
 # ud036--programming-foundations-with-python
 https://de.udacity.com/course/programming-foundations-with-python--ud036/
 
-Didn't do exercise Lesson2b, because I didn't want to register with a service I don't use. Although I understood all steps.
+I didn't do exercise Lesson2b, because I didn't want to register with a service I don't use. Although I understood all steps.
+
+As of 25.01.2017, it seems that the final project isn't available anymore and won't be reactivated. At the moment you get a message that promotes Udacity's Nanodegree program: "The project Kunal describes in this video is available as part of the Full Stack Nanodegree program. It is not part of the standalone course."
+
+I tried to collect some information about the old final projects to somehow finish the course.
+
 
 ~~[Final project description](https://docs.google.com/document/d/1-TKicJNzRO4ftAKZHbXCBbGSfRI6RszAu-OOtJW7CLg/pub)~~ Doesn't work anymore
 
