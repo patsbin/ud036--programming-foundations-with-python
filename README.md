@@ -4,9 +4,13 @@ https://de.udacity.com/course/programming-foundations-with-python--ud036/
 Didn't do exercise Lesson2b, because I didn't want to register with a service I don't use. Although I understood all steps.
 
 ~~[Final project description](https://docs.google.com/document/d/1-TKicJNzRO4ftAKZHbXCBbGSfRI6RszAu-OOtJW7CLg/pub)~~ Doesn't work anymore
+
 [Final project code](https://github.com/sanajaved7/Programming-Foundations-with-Python)
+
 [Final project rubric](https://docs.google.com/document/d/1xgMJ71VyFGxjEhz-_KHswSnoCx9Vge7VykDH05bsny0/pub)
+
 [Final project description](https://discussions.udacity.com/t/final-project-does-not-appear/44012/8)
+
 Final Project Description
 
 The final project is a place for you to demonstrate the ideas you have learned in the course while building a program that you would like to make for yourself or a friend.
